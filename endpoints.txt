@@ -1,0 +1,5 @@
+Background images/color codes for NFT. 
+Create NFT with image/video => done
+My NFT's detail (Published/Draft) => done
+NFT details => done
+DELETE NFT => done
